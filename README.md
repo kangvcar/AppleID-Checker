@@ -23,7 +23,7 @@
 
 ![私有部署服务](https://github.com/kangvcar/AppleID-Checker/blob/master/static/deploy_AppleIDChecker.png?raw=true)
 
-[私有部署服务](https://mbd.pub/o/bread/ZZ6cm5xp)
+获得私有部署服务: https://mbd.pub/o/bread/ZZ6cm5xp
 
 ## 功能
 
