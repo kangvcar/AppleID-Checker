@@ -5,7 +5,7 @@
 
 本项目提供一个用于检验 Apple ID 有效性的网页接口。它使用 Flask 框架来构建一个网页应用程序，允许用户验证他们的凭证、检查验证结果、管理用户账户（管理员用）以及导出结果。
 
-😋 在线访问：[http://8.134.157.203:5001](http://8.134.157.203:5001)
+😋 Demo：[http://8.134.157.203:5001](http://8.134.157.203:5001)
 
 🌏 TG交流群：[加入群组](https://t.me/+m7x3s4caiQQ4MmVl)
 
@@ -18,6 +18,12 @@
   <img src="/static/screenshot_admin.jpg" width="50%" />
 </p>
 </details>
+
+## 私有部署
+
+![私有部署服务](https://github.com/kangvcar/AppleID-Checker/blob/master/static/deploy_AppleIDChecker.png?raw=true)
+
+[私有部署服务](https://mbd.pub/o/bread/ZZ6cm5xp)
 
 ## 功能
 
